@@ -8,7 +8,7 @@
 
 <br/>
 
-2. [Дашборд Superstore в Excel](https://github.com/Ilya-bit-dev500/DE-101/blob/main/Module1/Dashboard.xlsx)
+2. [Аналитика в Excel](https://github.com/Ilya-bit-dev500/DE-101/blob/main/Module1/Dashboard.xlsx)
 
 <br/>
 
